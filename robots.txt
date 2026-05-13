@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sioux-falls-basement-v7.example/sitemap.xml
